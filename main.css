@@ -26,32 +26,47 @@ h1, h2, h3, h4 {
        color: inherit;
      }
 
-.container {
+.wrapper__content {
      margin: 0 auto;
      width: 1140px;
 }
 
 .header {
-     height: 27px;
+     height: 120px;
      position: relative;
-     margin-bottom: 196px;
+}
+
+.header_col-1 {
+     position: relative;
+     height: 85px;
+     width: 110px;
+     margin-right: 28px;
+}
+
+.header_col-2 {
+     position: relative;
+     height: 85px;
+     width: 110px;
 }
 
 .logo {
      display: block;
-     position: absolute;
+     position: relative;
+     height: 85px;
+     width: 36px;
      top: 21px;
      left: 0px;
+     margin-right: 51px;
 }
 
 .menu {
-     position: absolute;
+     position: relative;
      top: 30px;
      left: 164px;
 }
 
 .contacts {
-     position: absolute;
+     position: relative;
      top: 20px;
      right: 0px;
 }
@@ -114,4 +129,3 @@ h1, h2, h3, h4 {
      text-transform: uppercase;
      text-decoration: none;
 }
-
