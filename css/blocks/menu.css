@@ -1,0 +1,56 @@
+.menu {
+    position: relative;
+    top: 30px;
+    left: 164px;
+}
+
+.menu__list-item {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 51px;
+}
+
+.menu__link {
+    color: #FFFFFF;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.hero__content {
+    width: 530px;
+    position: absolute;
+    left: 105px;
+}
+
+.hero__title {
+    font-size: 72px;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-bottom: 4px; 
+}
+
+.hero__text {
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-bottom: 49px;
+}
+
+.button__hero {
+    background: #F5170E;
+    border-radius: 35px;
+    padding: 18px 34px;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.button__about {
+    background: #F5170E;
+    border-radius: 35px;
+    padding: 18px 34px;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
