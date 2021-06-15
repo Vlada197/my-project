@@ -1,5 +1,4 @@
 .about {
-    width: 530px;
-    position: absolute;
-    left: 105px;
+    position: relative;
+    margin-bottom: 2.8125rem;
 }
